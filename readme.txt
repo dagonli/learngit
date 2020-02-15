@@ -3,4 +3,4 @@ Git is free software.
 I am dagonli.
 nevermore.
 	2020
-Git tracks changes.
+Git tracks changes of files.
