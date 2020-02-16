@@ -10,3 +10,4 @@ Git tracks changes of files.
 I am liyu.
 yes.i am boring now.
 I am learn git to fix conflict.
+I am learn create and merge branch.
