@@ -8,5 +8,9 @@ nevermore.
 	2020
 Git tracks changes of files.
 I am liyu.
+<<<<<<< HEAD
 I want fuck liulidan.
 I want eat fresh food.
+=======
+yes.i am boring now.
+>>>>>>> feathre1.0
